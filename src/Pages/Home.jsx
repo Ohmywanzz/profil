@@ -79,9 +79,9 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/wanzs", label: "GitHub Profile" },
-  { icon: Linkedin, link: "https://www.linkedin.com/in/wanzs/", label: "LinkedIn Profile" },
-  { icon: Instagram, link: "https://www.instagram.com/wanzs_/?hl=id", label: "Instagram Profile" }
+  { icon: Github, link: "https://github.com/Ohmywanzz", label: "GitHub Profile" },
+  { icon: Linkedin, link: "https://www.linkedin.com/in/marwansutyawan/", label: "LinkedIn Profile" },
+  { icon: Instagram, link: "https://www.instagram.com/ohmywanz221?igsi=MTF0aXJmd24zZTh6Nw==", label: "Instagram Profile" }
 ];
 
 const Home = () => {
@@ -156,9 +156,9 @@ const Home = () => {
             "jobTitle": "Frontend Developer",
             "url": "https://wanzs.com",
             "sameAs": [
-              "https://github.com/wanzs",
-              "https://www.linkedin.com/in/wanzs/",
-              "https://www.instagram.com/wanzs_/"
+              "https://github.com/Ohmywanzz",
+              "https://www.linkedin.com/in/Ohmywanzz/",
+              "https://www.instagram.com/ohmywanz221?igsi=MTF0aXJmd24zZTh6Nw=="
             ]
           }
         `}</script>
