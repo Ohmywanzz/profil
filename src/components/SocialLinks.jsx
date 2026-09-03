@@ -24,7 +24,7 @@ const socialLinks = [
   {
     name: "Instagram",
     displayName: "Instagram",
-    subText: "@ekizr_",
+    subText: "@wanzs_",
     icon: Instagram,
     url: "https://www.instagram.com/ohmywanz221/?hl=id",
     color: "#E4405F",
@@ -33,7 +33,7 @@ const socialLinks = [
   {
     name: "YouTube",
     displayName: "Youtube",
-    subText: "@eki zulfar",
+    subText: "@wanzs",
     icon: Youtube,
     url: "https://www.youtube.com/@marwansutyawan",
     color: "#FF0000",
@@ -42,7 +42,7 @@ const socialLinks = [
   {
     name: "GitHub",
     displayName: "Github",
-    subText: "@EkiZR",
+    subText: "@wanzs",
     icon: Github,
     url: "https://github.com/Ohmywanzz",
     color: "#ffffff",
